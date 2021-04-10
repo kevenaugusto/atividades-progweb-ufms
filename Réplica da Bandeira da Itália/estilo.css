@@ -1,0 +1,32 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bandeira {
+    width: 500px;
+    height: 350px;
+    border: 1px solid;
+    display: flex;
+}
+
+.faixa {
+    width: 33.33%;
+    height: 100%;
+}
+
+.verde {
+    background-color: #055902;
+}
+
+.branco {
+    background-color: #F7F7F7;
+}
+
+.vermelho {
+    background-color: #D90404;
+}
